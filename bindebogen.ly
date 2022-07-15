@@ -1,3 +1,3 @@
 \relative { 
-g4~ g c2~ | c4~ c8 a~ a2
+g'4~ g' c"2~ | c'4~ c'8 a'~ a'2
 }

@@ -1,3 +1,9 @@
+\include "bagpipe.ly"
+\layout {
+indent = 0.0\cm
+\context { \Score \remove "Bar_number_engraver" }
+}
+
 \header {
 title = "Amazing Grace"
 meter = "Hymn"
